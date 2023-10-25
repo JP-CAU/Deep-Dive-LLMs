@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+*.ve_Deep_Dive_LLMs
+
 # Distribution / packaging
 .Python
 build/
